@@ -28,18 +28,7 @@ The system was implemented in **Network Simulator 2 (NS-2)** using **Tcl** scrip
 ---
 
 ## 🗂️ Folder Structure / Key Files
-> *(Add actual file structure once code is uploaded)*
-vanet-grayhole-detection/
-├── tcl-scripts/ # Tcl scripts for simulation
-│ ├── topology.tcl
-│ ├── routing.tcl
-│ └── simulation.tcl
-├── output/
-│ ├── nam_trace.nam
-│ └── xgraph_data.tr
-├── README.md
-└── report.pdf # Detailed project report
-
+Src code
 
 ---
 
